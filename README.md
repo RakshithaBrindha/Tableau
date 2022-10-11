@@ -1,6 +1,6 @@
 # Tableau
-## Netflix Analsysis 
-### Netflix analsysis done using *Tableau public*. 
+## Netflix Analysis 
+### Netflix Analysis done using *Tableau public*. 
 
 The [dataset](https://www.kaggle.com/shivamb/netflix-shows) used for this project is from Kaggle. 
 
